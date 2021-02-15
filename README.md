@@ -14,7 +14,7 @@ How to install:
 
    Just skip and exit.
 
-2- Exact the content from Axel-TV.zip to your game directory.
+2- Extract the content from Axel-TV.zip to your game directory.
 
 3- Execute the game and press HOME to enable or disable the shader.
 
