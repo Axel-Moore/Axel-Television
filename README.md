@@ -22,3 +22,6 @@ How to install:
 Check https://github.com/Axel-Moore/Axel-Television for further updates.
 
 
+█ Thank you to all Reshade / Retroarch guys from discord.
+
+Special thanks to Mattsilagi for help me porting some shaders.
