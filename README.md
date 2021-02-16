@@ -19,6 +19,8 @@ How to install:
 3- Execute the game and press HOME to enable or disable the shader.
 
 
+''' The profile is optimized for 1080p but runs in most resolutions.
+
 Check https://github.com/Axel-Moore/Axel-Television for further updates.
 
 
