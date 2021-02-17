@@ -8,7 +8,7 @@ I were working in the idea of create a CRT Shader for all type of content, this 
 
 How to install:
 
-1- First you need to install ReShade from https://reshade.me/
+1- First you need to install ReShade from https://reshade.me/  The shader requires version 4.9.1
 
    Execute it, select you game path .exe, select your api (d3d, ogl or vulkan), and dont install any shader.
 
