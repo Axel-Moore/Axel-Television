@@ -8,7 +8,7 @@ I were working in the idea of create a CRT Shader for all type of content, this 
 V.02 Changes
 ------------------------------------
 
-- Most important change: we are not going to use crt-royale reducing cpu/gpu load. We will use another shader for diffusion effect.
+- Most important change: we are not going to use crt-royale to reduce cpu/gpu load. We will use another shader for diffusion effect.
 
 How to install:
 
