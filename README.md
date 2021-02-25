@@ -5,7 +5,7 @@ I were working in the idea of create a CRT Shader for all type of content, this 
 
 ¦¦¦ Welcome to Axel TV CRT Shader ¦¦¦
 
-V.02 Changes
+V 0.2 Changes
 ------------------------------------
 
 - Most important change: we are not going to use crt-royale to reduce cpu/gpu load. We will use another shader for diffusion effect.
