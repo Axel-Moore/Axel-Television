@@ -3,8 +3,12 @@ Univeral CRT Shader for all games/emulators/apps based in D3D, OpenGL or Vulkan.
 
 I were working in the idea of create a CRT Shader for all type of content, this shader looks good in all games.
 
-
 ¦¦¦ Welcome to Axel TV CRT Shader ¦¦¦
+
+V.02 Changes
+------------------------------------
+
+- Most important change we are not going to use crt-royale reducing cpu/gpu load. We will use another shader for diffusion effect.
 
 How to install:
 
